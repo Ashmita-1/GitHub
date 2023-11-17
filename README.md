@@ -21,4 +21,10 @@
 
 8. **Root directory (~)** - main folder
 
-9. 
+9. **Initialisation (InIt)** - When you make a whole new document.
+
+10. **Cloning** - When you transfer the data to Git.
+
+11. **Untracked** - when a file is not tracked in terms of who edited the doc, how many times was it edited.
+
+12. **Staged** - when you want the untracked doc to be tracked.
